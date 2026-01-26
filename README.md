@@ -35,7 +35,7 @@
 ## 🎯 Current Learning & Goals
 
 ### 🧪 Software Testing
-- Advancing **Selenium Automation Framework Design (POM + TestNG)**
+- Advancing **Selenium Automation Framework Design (POM + TestNG + Allure Reporting)**
 - Improving **API Automation using Postman & JavaScript**
 - Enhancing **CI/CD integration for automated tests**
 - Writing high-quality **test cases, scenarios, and defect reports**
