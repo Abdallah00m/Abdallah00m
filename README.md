@@ -15,6 +15,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-green)
 ![Java](https://img.shields.io/badge/Java-orange)
 ![TestNG](https://img.shields.io/badge/TestNG-red)
+![RestAssured](https://img.shields.io/badge/RestAssured-yellow)
 ![Allure](https://img.shields.io/badge/Allure-purple)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 ![JMeter](https://img.shields.io/badge/JMeter-red)
