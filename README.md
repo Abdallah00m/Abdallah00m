@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed Elsayed Lotfy</h1>
-<h3 align="center">ISTQB® Certified Software Testing Engineer</h3>
 
 ---
 
